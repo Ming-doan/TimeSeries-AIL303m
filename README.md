@@ -8,6 +8,12 @@
 $ virtualenv env
 ```
 
+- Activate environment
+
+```
+$ env/Scripts/activate
+```
+
 - Install requirement
 
 ```
